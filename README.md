@@ -353,12 +353,3 @@ Only load trusted `.pth` model files. PyTorch checkpoint files from unknown sour
 ## License
 
 This project is released under the MIT License.
-
----
-
-## Author
-
-Kelvin Wong
-
-BSc (Hons) Scheme in Computing and AI
-The Hong Kong Polytechnic University
