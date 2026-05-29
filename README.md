@@ -1,3 +1,5 @@
+![alt text](icon/image.png)
+
 # Deepfake Image Detection System
 
 A deepfake image detection project that compares **spatial-domain** and **frequency-domain** approaches using ResNet50-based transfer learning. The project also includes a Streamlit frontend application that allows users to upload an image and receive a real/fake prediction with supporting forensic analysis.
