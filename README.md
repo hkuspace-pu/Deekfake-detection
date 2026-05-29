@@ -1,4 +1,9 @@
-![alt text](icon/image.png)
+<p align="left">
+  <img src="icon/content.png" width="360">
+</p>
+
+<h1 align="left"></h1>
+
 
 # Deepfake Image Detection System
 
