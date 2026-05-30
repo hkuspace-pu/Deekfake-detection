@@ -8,11 +8,11 @@
 
 A deepfake image detection project that compares **spatial-domain** and **frequency-domain** approaches using ResNet50-based transfer learning. The project also includes a Streamlit frontend application that allows users to upload an image and receive a real/fake prediction with supporting forensic analysis.
 
-### Youtube Demo: 
+### Youtube Demo: https://youtu.be/8PiLAn2j9gw 
+
 ### User guide: https://app.notion.com/p/Deepfake-Detection-App-Deployment-Guide-36f96cbb7977808dbf5ad980da497ecc?source=copy_link
 
-### Report: https://youtu.be/8PiLAn2j9gw 
-
+### Report: /Report 
 
 ---
 
